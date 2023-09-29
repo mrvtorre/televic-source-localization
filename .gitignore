@@ -1,3 +1,6 @@
+# Custom ignores
+CMU_ARCTIC/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
